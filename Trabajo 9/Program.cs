@@ -6,6 +6,9 @@ namespace Trabajo_9
     {
         static void Main(string[] args)
         {
+            Console.BackgroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Green;
+
             int num1, num2, resultado;
             string Palabra="Chinga a tu madre";
 
