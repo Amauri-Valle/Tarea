@@ -1,0 +1,14 @@
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\bin\Debug\netcoreapp3.1\Trabajo 9.exe
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\bin\Debug\netcoreapp3.1\Trabajo 9.deps.json
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\bin\Debug\netcoreapp3.1\Trabajo 9.runtimeconfig.json
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\bin\Debug\netcoreapp3.1\Trabajo 9.runtimeconfig.dev.json
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\bin\Debug\netcoreapp3.1\Trabajo 9.dll
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\bin\Debug\netcoreapp3.1\Trabajo 9.pdb
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.csproj.AssemblyReference.cache
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.AssemblyInfoInputs.cache
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.AssemblyInfo.cs
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.csproj.CoreCompileInputs.cache
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.dll
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.pdb
+D:\Users\Dell Inspiron\Documents\Trabajos de la universidad\Windows forms\Trabajo 9\Trabajo 9\obj\Debug\netcoreapp3.1\Trabajo 9.genruntimeconfig.cache
