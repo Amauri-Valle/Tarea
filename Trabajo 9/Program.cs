@@ -10,8 +10,9 @@ namespace Trabajo_9
 
             Console.WriteLine("Escriba el primer numero");
             num1 = int.Parse(Console.ReadLine());
-            Console.WriteLine("Escriba el primer numero");
-            num1 = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Escriba el segundo numero");
+            num2 = int.Parse(Console.ReadLine());
         }
     }
 }
